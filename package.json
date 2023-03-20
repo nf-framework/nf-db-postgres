@@ -1,6 +1,6 @@
 {
     "name": "@nfjs/db-postgres",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Postgres driver",
     "license": "MIT",
     "type": "module",
